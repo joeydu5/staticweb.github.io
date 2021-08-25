@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-This is for creating a static experiment purpose from Emerging Tech subject.
+## This is for creating a static experiment purpose from Emerging Tech subject.
+
 
 You can use the [editor on GitHub](https://github.com/joeydu5/staticweb.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
